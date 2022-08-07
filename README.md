@@ -1,4 +1,4 @@
 # World
-A java plugin to a rotating world
- 4 files.
- Enjoy.
+<p>A javascript plugin to a rotating world<p>
+<p>Only 4 files.</p>
+<p>Enjoy.</p>
